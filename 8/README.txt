@@ -1,0 +1,1 @@
+Run the both parts of Questions 1&2 simultaneously to create 2 processes in database 
